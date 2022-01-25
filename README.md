@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pavan R
 - 👀 I’m interested in learning and enhancing knowledge
-- 🌱 I’m currently interning in KAS Services 
+- 🌱 I’m currently interning at KAS Services 
 - 📫 How to reach me through pavan.r@kas-services.com
 
 <!---

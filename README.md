@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pavan R
 - 👀 I’m interested in learning and enhancing knowledge
 - 🌱 I’m currently working at KAS Services 
-- 📫 How to reach me through pavan.r@kas-services.com
+- 📫 How to reach me through pavan.r@anko.com
 
 <<< This is an organisation git profile and has only repos regarding work >>>
 
